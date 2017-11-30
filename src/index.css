@@ -1,0 +1,40 @@
+body  {
+ background-color: lightblue;
+}
+
+
+.App {
+  padding: 20px 10px 60px 20px;
+  background-color: red;
+
+  border-radius: 3%;
+  margin: 5px;
+  width: 315px;
+
+  display: block;
+  margin: 0 auto;
+}
+
+.inputOne {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.inputAdj {
+  margin-left: 10px;
+}
+
+.inputTwo {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.inputNoun {
+  margin-left: 35px;
+}
+
+
+button {
+  display: block;
+  margin: 0 auto;
+}
